@@ -1,0 +1,3 @@
+category: 必修
+semester: 第一学年夏季
+name: 创新训练课A

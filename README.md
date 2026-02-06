@@ -1,14 +1,4 @@
-<!-- RDME_TOML_AUTOGEN_WARNING_START -->
-> [!WARNING]
-> TOML 自动化格式化/生成 README 失败：请检查 readme.toml，并查看 Actions 日志。
-<!-- RDME_TOML_AUTOGEN_WARNING_END -->
-
-# 创新训练课A
-
-![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
-
-## Awesome HITSZ 大一立项
+# AUTO2003A - 创新训练课A
 
 收集 HITSZ 中有意思的大一立项项目：
 

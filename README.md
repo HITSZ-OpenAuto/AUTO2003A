@@ -1,4 +1,5 @@
 # AUTO2003A - 创新训练课A
+<!-- TOML-META: repo_type="normal" -->
 
 收集 HITSZ 中有意思的大一立项项目：
 

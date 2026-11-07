@@ -1,0 +1,22 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022696,
+    "hash": "7d522f4943a478619b9b99b4286182e9c8a143e4"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086104,
+    "hash": "b4a5262de79ce47a217e5eb2a1bb23fcebb366ac"
+  },
+  "README.md": {
+    "size": 651,
+    "time": 1772872163,
+    "hash": "d3f39e9ff0cb4ede23ea772cd0546b09602c4f99"
+  },
+  "readme.toml": {
+    "size": 682,
+    "time": 1773427926,
+    "hash": "4fa9e8cf52137f46ed07d7aaa0ad2cdb1e3c576f"
+  }
+}
